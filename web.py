@@ -8,7 +8,7 @@ def add_todo():
     todos.append(todo)
     functions.write_todos(todos)
 
-st.title("Goal Smasher Ultimate")
+st.title("Goal Smasher")
 
 
 
